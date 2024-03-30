@@ -1,1 +1,1 @@
-"C:\Program Files\Unity\Hub\Editor\2023.2.14f1\Editor\Unity.exe" -batchmode -quit -logFile .\build.log -projectPath C:\Users\asssan75\AppleCatch -executeMethod BuilderScript.Build
+"C:\Program Files\Unity\Hub\Editor\2023.2.14f1\Editor\Unity.exe" -batchmode -quit -logFile .\build.log -projectPath C:\Users\exampleuser\AppleCatch -executeMethod BuilderScript.Build
